@@ -1,4 +1,8 @@
 <ciudades>
-    <ciudad nombre="Nueva York" habitantes="8419000"/>
-    <ciudad nombre="Seattle" habitantes="744900"/>
+  <ciudad nombre="Nueva York">
+    <habitantes>8449000</habitantes>
+  </ciudad>
+  <ciudad nombre="Seattle">
+    <habitantes>744900</habitantes>
+  </ciudad>
 </ciudades>
